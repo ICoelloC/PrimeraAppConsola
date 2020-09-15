@@ -7,7 +7,7 @@ namespace PrimeraAppConsola
         static void Main(string[] args)
         {
             //actualización del mensaje al castellano
-            Console.WriteLine("Hola Mundo! DAM ");
+            Console.WriteLine("Hola Mundo! DAM");
         }
     }
 }
